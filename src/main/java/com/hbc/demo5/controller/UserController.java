@@ -33,13 +33,13 @@ public class UserController {
 		
 		
 		
+		
+		//this is demo5
+		
 		List<User> users = userService.getList(userId);
 //		
 //
 		return new ModelAndView("userList").addObject("userList", users);
 		
-		
-//		return "ddd";
-	//		return "ddd";	
 	}
 }
