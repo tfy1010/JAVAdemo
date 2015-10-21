@@ -38,9 +38,5 @@ public class UserController {
 //
 		return new ModelAndView("userList").addObject("userList", users);
 		
-		
-//		return "ddd";
-	//		return "ddd";
-	//jhhkhklhkj
 	}
 }
