@@ -38,6 +38,5 @@ public class UserController {
 //
 		return new ModelAndView("userList").addObject("userList", users);
 		
-			
 	}
 }
